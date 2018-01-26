@@ -26,5 +26,6 @@ weight = 80
 - IEEE Transactions on Control Systems Technology
 - Chinese Journal of Aeronautics
 - Energy & Environment
+- The International Conference on Mechanical, Electric and Industrial Engineering (MEIE 2018)
 - 5th International Symposium on Model-Based Safety and Assessment (IMBSA 2017)
 - 9th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS’15)
