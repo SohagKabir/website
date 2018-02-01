@@ -17,7 +17,7 @@ authors = ["S Kabir", "M Walker", "Y Papadopoulos"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Model-Based Safety and Assessment*, Lecture Notes in Computer Science; Vol. 8822). Springer, pp. 96-109"
+publication = "In *Model-Based Safety and Assessment*, Lecture Notes in Computer Science; Vol. 8822. Springer, pp. 96-109"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
