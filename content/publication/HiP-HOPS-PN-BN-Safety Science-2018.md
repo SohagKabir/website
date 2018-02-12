@@ -17,7 +17,7 @@ authors = ["S Kabir", "M Walker", "Y Papadopoulos"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Safety Science*, (Accepted)"
+publication = "*Safety Science*, 105, pp. 55-70"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
@@ -33,12 +33,12 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = ["deis"]
+projects = ["deis"]
 
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_paper = ""
+url_paper = "https://www.sciencedirect.com/science/article/pii/S0925753517314911"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -61,5 +61,5 @@ caption = ""
 
 [[url_custom]]
     name = "Paper"
-    url = ""
+    url = "https://www.sciencedirect.com/science/article/pii/S0925753517314911"
 +++
