@@ -11,14 +11,15 @@ title = "Scholarships and Awards"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 85
+weight = 80
 
 +++
 
 **Honours and Awards:**  
 
-- Best Paper Award, 17th International Conference on Computer and Information Technology (ICCIT’14), 2014.
-- Best Poster Award, 1st Post Graduate Research Conference, University of Hull, 2014.
+- **Research Excellence Award,** Outstanding Early Career Researcher, University of Hull, 2018.
+- **Best Paper Award,** 17th International Conference on Computer and Information Technology (ICCIT’14), 2014.
+- **Best Poster Award,** 1st Post Graduate Research Conference, University of Hull, 2014.
 - Listed in the MIST Commandants List and received certificates for outstanding academic  performance, 2008-2010.  
 
 **Scholarships and Funds:**  

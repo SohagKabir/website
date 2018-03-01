@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Reliability Analysis",
-    "Safety",
+    "Safety Analysis",
+    "Software Engineering",
     "Model-based design and analysis",
     "Probabilistic Risk Assessment",
     "Stochastic Modelling and Analysis",
