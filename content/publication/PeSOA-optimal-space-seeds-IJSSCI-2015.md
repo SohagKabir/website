@@ -3,7 +3,7 @@ title = "Penguin search optimisation algorithm for finding optimal spaced seeds"
 date = "2015-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Y Gheraibia", "A Moussaoui", "Y Djenouri", "S Kabir", "P Y Yin", "S Mazouzi"]
+authors = ["Y Gheraibia", "A Moussaoui", "Y Djenouri", "**S Kabir**", "P Y Yin", "S Mazouzi"]
 
 # Publication type.
 # Legend:

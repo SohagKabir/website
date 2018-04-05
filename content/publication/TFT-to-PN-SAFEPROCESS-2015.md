@@ -3,7 +3,7 @@ title = "Quantitative evaluation of Pandora Temporal Fault Trees via Petri Nets"
 date = "2015-10-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "M Walker", "Y Papadopoulos"]
+authors = ["**S Kabir**", "M Walker", "Y Papadopoulos"]
 
 # Publication type.
 # Legend:

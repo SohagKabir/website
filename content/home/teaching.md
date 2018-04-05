@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-**Tutorial Assistant**, 2014-2015  
+**Tutorial Assistant**, 2014-to date  
 Department of Computer Science, University of Hull, UK
 
 Modules tutored:

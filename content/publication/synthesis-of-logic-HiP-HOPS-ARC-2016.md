@@ -3,7 +3,7 @@ title = "A synthesis of logic and bio-inspired techniques in the design of depen
 date = "2016-05-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Y Papadopoulos", "M Walker", "D Parker", "S Sharvia", "L Bottaci", "S Kabir", "L Azevedo", "I Sorokos"]
+authors = ["Y Papadopoulos", "M Walker", "D Parker", "S Sharvia", "L Bottaci", "**S Kabir**", "L Azevedo", "I Sorokos"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "Quantification of Temporal Fault Trees Based on Fuzzy Set Theory"
 date = "2014-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "E Edifor", "M Walker", "N Gordon"]
+authors = ["**S Kabir**", "E Edifor", "M Walker", "N Gordon"]
 
 # Publication type.
 # Legend:

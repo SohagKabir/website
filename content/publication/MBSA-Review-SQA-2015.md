@@ -3,7 +3,7 @@ title = "Model-based Dependability Analysis: State-of-the-art, Challenges, and F
 date = "2015-10-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Sharvia", "S Kabir", "M Walker", "Y Papadopoulos"]
+authors = ["S Sharvia", "**S Kabir**", "M Walker", "Y Papadopoulos"]
 
 # Publication type.
 # Legend:

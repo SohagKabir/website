@@ -3,7 +3,7 @@ title = "Evaluation of Load Balancing Performance of Parallel Processing Linear 
 date = "2015-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "S Kabir", "A Alam", "T Azad"]
+authors = [ "**S Kabir**", "A Alam", "T Azad"]
 
 # Publication type.
 # Legend:

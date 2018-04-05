@@ -3,7 +3,7 @@ title = "Dynamic System Safety Analysis in HiP-HOPS with Petri Nets and Bayesian
 date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "M Walker", "Y Papadopoulos"]
+authors = ["**S Kabir**", "M Walker", "Y Papadopoulos"]
 
 # Publication type.
 # Legend:

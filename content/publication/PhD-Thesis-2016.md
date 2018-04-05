@@ -3,7 +3,7 @@ title = "Compositional dependability analysis of dynamic systems with uncertaint
 date = "2016-02-16"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir"]
+authors = ["**S Kabir**"]
 
 # Publication type.
 # Legend:

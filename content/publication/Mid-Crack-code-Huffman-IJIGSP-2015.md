@@ -3,7 +3,7 @@ title = "A Compressed Representation of Mid-Crack Code with Huffman Code"
 date = "2015-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "S Kabir"]
+authors = [ "**S Kabir**"]
 
 # Publication type.
 # Legend:

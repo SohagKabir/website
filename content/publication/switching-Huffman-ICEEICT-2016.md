@@ -3,7 +3,7 @@ title = "Switching optimisation in Huffman code for power efficient data transmi
 date = "2016-09-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "Y Gheraibia", "T Azad"]
+authors = ["**S Kabir**", "Y Gheraibia", "T Azad"]
 
 # Publication type.
 # Legend:

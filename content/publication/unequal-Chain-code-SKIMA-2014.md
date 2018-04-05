@@ -3,7 +3,7 @@ title = "Freeman chain code with digits of unequal cost"
 date = "2014-12-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "T Azad", "A Alam"]
+authors = ["**S Kabir**", "T Azad", "A Alam"]
 
 # Publication type.
 # Legend:

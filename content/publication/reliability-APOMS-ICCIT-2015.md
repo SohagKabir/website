@@ -3,7 +3,7 @@ title = "Reliability analysis of automated pond oxygen management system"
 date = "2015-12-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "T Azad", "M Walker", "Y Gheraibia"]
+authors = ["**S Kabir**", "T Azad", "M Walker", "Y Gheraibia"]
 
 # Publication type.
 # Legend:

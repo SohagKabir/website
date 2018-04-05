@@ -3,7 +3,7 @@ title = "Hardware Design and Simulation of Sobel Edge Detection Algorithm"
 date = "2014-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "S Kabir", "A Alam"]
+authors = [ "**S Kabir**", "A Alam"]
 
 # Publication type.
 # Legend:

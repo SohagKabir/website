@@ -3,7 +3,7 @@ title = "Performance Evaluation of Parallel-processing Networked System with Lin
 date = "2015-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "A Alam", "T Azad"]
+authors = ["**S Kabir**", "A Alam", "T Azad"]
 
 # Publication type.
 # Legend:

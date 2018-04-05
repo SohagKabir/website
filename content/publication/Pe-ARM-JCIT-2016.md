@@ -3,7 +3,7 @@ title = "Penguins search optimisation algorithm for association rules mining"
 date = "2016-06-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Y Gheraibia", "A Moussaoui", "Y Djenouri", "S Kabir", "P Y Yin"]
+authors = ["Y Gheraibia", "A Moussaoui", "Y Djenouri", "**S Kabir**", "P Y Yin"]
 
 # Publication type.
 # Legend:

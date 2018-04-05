@@ -3,7 +3,7 @@ title = "Pe-DFA: Penguins Search Optimisation Algorithm for DNA Fragment Assembl
 date = "2016-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Y Gheraibia", "A Moussaoui", "S Kabir", "S Mazouzi"]
+authors = ["Y Gheraibia", "A Moussaoui", "**S Kabir**", "S Mazouzi"]
 
 # Publication type.
 # Legend:

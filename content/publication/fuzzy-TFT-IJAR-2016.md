@@ -3,7 +3,7 @@ title = "Fuzzy temporal fault tree analysis of dynamic systems"
 date = "2016-10-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "M Walker", "Y Papadopoulos", "E Rüde", "P Securius"]
+authors = ["**S Kabir**", "M Walker", "Y Papadopoulos", "E Rüde", "P Securius"]
 
 # Publication type.
 # Legend:

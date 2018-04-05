@@ -3,7 +3,7 @@ title = "Model-Based Assessment of Energy-Efficiency, Dependability, and Cost-Ef
 date = "2018-03-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["J Lampe", "E Rüde", "Y Papadopoulos", "*S Kabir*"]
+authors = ["J Lampe", "E Rüde", "Y Papadopoulos", "**S Kabir**"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["J Lampe", "E Rüde", "Y Papadopoulos", "*S Kabir*"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Ocean Engineering*, (Accepted)"
+publication = "*Ocean Engineering*, 157, pp. 234-250."
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
@@ -38,7 +38,7 @@ selected = true
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_paper = ""
+url_paper = "https://www.sciencedirect.com/science/article/pii/S0029801818303408"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -61,5 +61,5 @@ caption = ""
 
 [[url_custom]]
     name = "Paper"
-    url = ""
+    url = "https://www.sciencedirect.com/science/article/pii/S0029801818303408"
 +++

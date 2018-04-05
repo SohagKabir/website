@@ -25,6 +25,8 @@ weight = 85
 - Journal of Hazardous Materials
 - IEEE Transactions on Control Systems Technology
 - Chinese Journal of Aeronautics
+- Royal Society Open Science
+- Journal of Hazardous, Toxic, and Radioactive Waste
 - Energy & Environment
 - The International Conference on Mechanical, Electric and Industrial Engineering (MEIE 2018)
 - 5th International Symposium on Model-Based Safety and Assessment (IMBSA 2017)

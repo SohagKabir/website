@@ -3,7 +3,7 @@ title = "A Safety Analysis Approach to Clinical Workflows: Application and Evalu
 date = "2014-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "L Al-Qora’n", "N Gordon", "M Walker", "S Sharvia", "S Kabir"]
+authors = [ "L Al-Qora’n", "N Gordon", "M Walker", "S Sharvia", "**S Kabir**"]
 
 # Publication type.
 # Legend:

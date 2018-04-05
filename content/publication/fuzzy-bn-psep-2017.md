@@ -3,7 +3,7 @@ title = "A Fuzzy Bayesian Network approach for Risk Analysis in Process Industri
 date = "2017-08-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M Yazdi", "S Kabir"]
+authors = ["M Yazdi", "**S Kabir**"]
 
 # Publication type.
 # Legend:

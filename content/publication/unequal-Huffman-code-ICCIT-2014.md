@@ -3,7 +3,7 @@ title = "Effects of unequal bit costs on classical Huffman codes"
 date = "2014-12-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "T Azad", "A Alam", "M Kaykobad"]
+authors = ["**S Kabir**", "T Azad", "A Alam", "M Kaykobad"]
 
 # Publication type.
 # Legend:

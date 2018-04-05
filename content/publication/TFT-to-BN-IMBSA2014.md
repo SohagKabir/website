@@ -3,7 +3,7 @@ title = "Reliability Analysis of Dynamic Systems by Translating Temporal Fault T
 date = "2014-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "M Walker", "Y Papadopoulos"]
+authors = ["**S Kabir**", "M Walker", "Y Papadopoulos"]
 
 # Publication type.
 # Legend:

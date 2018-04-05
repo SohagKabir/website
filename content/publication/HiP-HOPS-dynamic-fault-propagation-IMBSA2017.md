@@ -3,7 +3,7 @@ title = "A model-based extension to HiP-HOPS for dynamic fault propagation studi
 date = "2017-08-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir", "Y Papadopoulos", "M Walker", "D Parker", "J I Aizpurua Unanue", "J Lampe", "E Rüde"]
+authors = ["**S Kabir**", "Y Papadopoulos", "M Walker", "D Parker", "J I Aizpurua Unanue", "J Lampe", "E Rüde"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "An overview of fault tree analysis and its application in model based d
 date = "2017-02-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S Kabir"]
+authors = ["**S Kabir**"]
 
 # Publication type.
 # Legend:
