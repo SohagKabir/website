@@ -17,7 +17,7 @@ authors = ["Y Gheraibia", "**S Kabir**", "K Djafri", " H Krimou"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Failure Analysis and Prevention*, (In Press)"
+publication = "*Journal of Failure Analysis and Prevention*"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
@@ -61,5 +61,5 @@ caption = ""
 
 [[url_custom]]
     name = "Paper"
-    url = ""
+    url = "https://link.springer.com/article/10.1007/s11668-018-0466-9"
 +++
