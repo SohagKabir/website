@@ -26,6 +26,7 @@ weight = 85
 - IEEE Transactions on Control Systems Technology
 - Chinese Journal of Aeronautics
 - Royal Society Open Science
+- International Journal of Critical Computer-Based Systems
 - Journal of Software Engineering and Applications
 - Journal of Hazardous, Toxic, and Radioactive Waste
 - Energy & Environment
