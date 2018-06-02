@@ -17,7 +17,7 @@ authors = ["**S Kabir**", "Y Papadopoulos"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*International Journal of Approximate Reasoning*, 100, pp. 29–55."
+publication = "*International Journal of Approximate Reasoning*, 100, pp. 29–55"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.

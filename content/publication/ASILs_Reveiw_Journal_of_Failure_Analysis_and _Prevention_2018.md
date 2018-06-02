@@ -17,7 +17,7 @@ authors = ["Y Gheraibia", "**S Kabir**", "K Djafri", " H Krimou"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Failure Analysis and Prevention*, 18 (3), pp. 707–720."
+publication = "*Journal of Failure Analysis and Prevention*, 18 (3), pp. 707–720"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
