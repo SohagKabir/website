@@ -3,7 +3,7 @@ title = "Uncertainty-aware dynamic reliability analysis framework for complex sy
 date = "2018-06-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "**S Kabir**", "M Yazdi", J I Aizpurua, "Y Papadopoulos"]
+authors = [ "**S Kabir**", "M Yazdi", "J I Aizpurua", "Y Papadopoulos"]
 
 # Publication type.
 # Legend:
