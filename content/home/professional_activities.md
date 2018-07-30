@@ -21,11 +21,15 @@ weight = 85
 **Review Activities:**  
 
 - IEEE Transactions on Reliability
+- IEEE Transactions on Control Systems Technology
+- IEEE Access
+- Reliability Engineering and System Safety
+- Process Safety and Environmental Protection
 - International Journal of Approximate Reasoning
 - Journal of Hazardous Materials
-- IEEE Transactions on Control Systems Technology
 - Chinese Journal of Aeronautics
 - Royal Society Open Science
+- Journal of Intelligent Systems
 - International Journal of Critical Computer-Based Systems
 - Journal of Software Engineering and Applications
 - Journal of Hazardous, Toxic, and Radioactive Waste
