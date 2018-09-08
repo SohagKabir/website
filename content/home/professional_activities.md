@@ -24,6 +24,7 @@ weight = 85
 - IEEE Transactions on Control Systems Technology
 - IEEE Access
 - Reliability Engineering and System Safety
+- Fuzzy Sets and Systems
 - Process Safety and Environmental Protection
 - International Journal of Approximate Reasoning
 - Journal of Hazardous Materials
