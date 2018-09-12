@@ -22,6 +22,7 @@ weight = 85
 
 - IEEE Transactions on Reliability
 - IEEE Transactions on Control Systems Technology
+- IEEE Internet of Things Journal
 - IEEE Access
 - Reliability Engineering and System Safety
 - Fuzzy Sets and Systems
