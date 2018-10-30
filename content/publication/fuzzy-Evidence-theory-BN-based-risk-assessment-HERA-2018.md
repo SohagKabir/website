@@ -1,6 +1,6 @@
 +++
 title = "Fuzzy evidence theory and Bayesian networks for process systems risk analysis"
-date = "2018-06-24"
+date = "2018-10-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "M Yazdi","**S Kabir**"]
@@ -61,5 +61,5 @@ caption = ""
 
 [[url_custom]]
     name = "Paper"
-    url = ""
+    url = "https://www.tandfonline.com/doi/abs/10.1080/10807039.2018.1493679"
 +++
