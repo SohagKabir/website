@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Hull", url = "http://www2.hull.ac.uk/Home.aspx" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "myimage2.jpg"  # myimage2.jpg Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "pp.jpg"  # myimage2.jpg Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "s.kabir@hull.ac.uk"
   address = "Cottingham Road, Babbage Lab, Robert Blackburn Building, University of Hull, Hull, HU6 7RX, UK"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
