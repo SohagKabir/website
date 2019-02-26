@@ -38,7 +38,7 @@ projects = ["deis"]
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_paper = ""
+url_paper = "https://www.sciencedirect.com/science/article/pii/S0925753518305435"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -61,5 +61,5 @@ caption = ""
 
 [[url_custom]]
     name = "Paper"
-    url = ""
+    url = "https://www.sciencedirect.com/science/article/pii/S0925753518305435"
 +++
