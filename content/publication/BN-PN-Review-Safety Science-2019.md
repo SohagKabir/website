@@ -3,7 +3,7 @@ title = "Applications of Bayesian Networks and Petri Nets in Safety, Reliability
 date = "2019-02-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Shg Kabir**", "Y Papadopoulos"]
+authors = ["**Sohag Kabir**", "Y Papadopoulos"]
 
 # Publication type.
 # Legend:
