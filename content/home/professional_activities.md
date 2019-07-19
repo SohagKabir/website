@@ -22,6 +22,8 @@ weight = 85
 
 - IEEE Transactions on Reliability
 - IEEE Transactions on Control Systems Technology
+- IEEE Transactions on Fuzzy Systems
+- IEEE Transactions on Industrial Informatics
 - IEEE Internet of Things Journal
 - IEEE Access
 - Reliability Engineering and System Safety
@@ -30,6 +32,7 @@ weight = 85
 - International Journal of Approximate Reasoning
 - Journal of Hazardous Materials
 - Chinese Journal of Aeronautics
+- Defence Technology
 - Royal Society Open Science
 - Journal of Intelligent Systems
 - International Journal of Critical Computer-Based Systems
@@ -39,3 +42,4 @@ weight = 85
 - The International Conference on Mechanical, Electric and Industrial Engineering (MEIE 2018)
 - 5th International Symposium on Model-Based Safety and Assessment (IMBSA 2017)
 - 9th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS’15)
+- 6th International Symposium on Model-Based Safety and Assessment (IMBSA 2019)

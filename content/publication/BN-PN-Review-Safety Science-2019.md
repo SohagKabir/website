@@ -17,7 +17,7 @@ authors = ["**Sohag Kabir**", "Y Papadopoulos"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Safety Science*"
+publication = "*Safety Science*, 115, pp. 154-175"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
