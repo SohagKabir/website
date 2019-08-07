@@ -1,6 +1,6 @@
 +++
 title = "A Conceptual Framework to Incorporate Complex Basic Events in HiP-HOPS"
-date = "2019-10-16"
+date = "2019-07-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**S Kabir**", "K Aslansefat", "I Sorokos", "Y Papadopoulos", "Y Gheraibia"]
@@ -60,6 +60,6 @@ image = ""
 caption = ""
 
 [[url_custom]]
-    name = ""
-    url = ""
+    name = "Paper"
+    url = "https://www.researchgate.net/publication/334763042_A_Conceptual_Framework_to_Incorporate_Complex_Basic_Events_in_HiP-HOPS"
 +++

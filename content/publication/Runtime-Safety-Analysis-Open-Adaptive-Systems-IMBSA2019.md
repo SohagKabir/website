@@ -1,6 +1,6 @@
 +++
 title = "A Runtime Safety Analysis Concept for Open Adaptive Systems"
-date = "2019-10-16"
+date = "2019-07-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**S Kabir**", "K Aslansefat", "I Sorokos", "Y Papadopoulos", "Y Gheraibia","J Reich", "M Saimler", "R Wei"]
@@ -60,6 +60,6 @@ image = ""
 caption = ""
 
 [[url_custom]]
-    name = ""
-    url = ""
+    name = "Paper"
+    url = "https://www.researchgate.net/publication/334770779_A_Runtime_Safety_Analysis_Concept_for_Open_Adaptive_Systems"
 +++
