@@ -33,6 +33,7 @@ weight = 85
 - Journal of Hazardous Materials
 - Chinese Journal of Aeronautics
 - Defence Technology
+- Engineering Computations
 - Royal Society Open Science
 - Journal of Intelligent Systems
 - International Journal of Critical Computer-Based Systems

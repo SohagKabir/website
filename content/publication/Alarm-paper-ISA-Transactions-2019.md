@@ -61,5 +61,5 @@ caption = ""
 
 [[url_custom]]
     name = "Paper"
-    url = ""
+    url = "https://www.sciencedirect.com/science/article/abs/pii/S0019057819303519"
 +++
