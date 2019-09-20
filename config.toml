@@ -51,18 +51,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Sohag Kabir"
-  role = "Research Associate, AFHEA"
+  role = "Lecturer in Computer Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Hull", url = "http://www2.hull.ac.uk/Home.aspx" } ]
+  organizations = [ { name = "University of Bradford", url = "https://bradford.ac.uk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "pp.jpg"  # myimage2.jpg Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "s.kabir@hull.ac.uk"
-  address = "Cottingham Road, Babbage Lab, Robert Blackburn Building, University of Hull, Hull, HU6 7RX, UK"
+  email = "s.kabir2atbradford.ac.uk"
+  address = "Faculty of Engineering and Informatics, University of Bradford, Bradford, BD7 1DP, UK"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+44(0)1482465045"
+  #phone = "+44(0)1482465045"
   skype = "sohag.kabir"
   #telegram = ""
 
