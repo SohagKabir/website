@@ -61,5 +61,5 @@ caption = ""
 
 [[url_custom]]
     name = "Paper"
-    url = "https://www.researchgate.net/publication/334770779_A_Runtime_Safety_Analysis_Concept_for_Open_Adaptive_Systems"
+    url = "https://link.springer.com/chapter/10.1007/978-3-030-32872-6_22"
 +++

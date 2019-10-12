@@ -61,5 +61,5 @@ caption = ""
 
 [[url_custom]]
     name = "Paper"
-    url = ""
+    url = "https://www.tandfonline.com/doi/abs/10.1080/15567036.2019.1670287"
 +++

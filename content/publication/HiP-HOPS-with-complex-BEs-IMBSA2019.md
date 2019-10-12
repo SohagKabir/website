@@ -61,5 +61,5 @@ caption = ""
 
 [[url_custom]]
     name = "Paper"
-    url = "https://www.researchgate.net/publication/334763042_A_Conceptual_Framework_to_Incorporate_Complex_Basic_Events_in_HiP-HOPS"
+    url = "https://link.springer.com/chapter/10.1007/978-3-030-32872-6_8"
 +++
