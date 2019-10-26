@@ -15,9 +15,9 @@ weight = 85
 
 +++
 
-**Safety and Reliability consultant at:**
-[![my img](/img/relmar1.png)](https://www.relmar.co.uk/)
-
+<!---**Safety and Reliability consultant at:**
+ [![my img](/img/relmar1.png)](https://www.relmar.co.uk/)
+-->
 **Review Activities:**  
 
 - IEEE Transactions on Reliability
