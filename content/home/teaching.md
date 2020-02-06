@@ -20,10 +20,12 @@ Department of Computer Science, University of Bradford, UK
 **Academic Year 2019-2020**
 
 Semester 2:
-COS4018-B: Internet Technologies
+
+- COS4018-B: Internet Technologies
 
 Semester 1:
-COS7039-B: Internet of Things (IoT)
+
+- COS7039-B: Internet of Things (IoT)
 
 
 **Lecturer**, January 2019 – June 2019  
