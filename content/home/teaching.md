@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-**Lecturer**, September 2019 – Present
+**Lecturer**, September 2019 – Present   
 Department of Computer Science, University of Bradford, UK
 
 **Academic Year 2019-2020**
