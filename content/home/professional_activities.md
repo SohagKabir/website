@@ -35,6 +35,7 @@ weight = 85
 - Defence Technology
 - Engineering Computations
 - Royal Society Open Science
+- Journal of Systems Science and Systems Engineering
 - Journal of Intelligent Systems
 - International Journal of Critical Computer-Based Systems
 - Journal of Software Engineering and Applications

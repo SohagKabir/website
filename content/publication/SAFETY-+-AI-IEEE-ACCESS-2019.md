@@ -17,7 +17,7 @@ authors = [ "Y Gheraibia", "**S Kabir**", "K Aslansefat", "I Sorokos", "Y Papado
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE ACCESS*, doi:10.1109/ACCESS.2019.2941566"
+publication = "*IEEE ACCESS*, 7, pp. 135855-135869"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.

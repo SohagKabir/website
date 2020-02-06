@@ -17,8 +17,8 @@ authors = ["**S Kabir**", "K Aslansefat", "I Sorokos", "Y Papadopoulos", "Y Gher
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Symposium on Model-Based Safety and Assessment*"
-publication_short = "In *IMBSA'19*"
+publication = "In *International Symposium on Model-Based Safety and Assessment*, pp 109-124"
+publication_short = "In *IMBSA'19*, pp 109-124"
 
 # Abstract and optional shortened version.
 abstract = "Reliability evaluation for ensuring the uninterrupted system operation is an integral part of dependable system development. Model-based safety analysis (MBSA) techniques such as Hierarchically Performed Hazard Origin and Propagation Studies (HiP-HOPS) have made the reliability analysis process less expensive in terms of effort and time required. HiP-HOPS uses an analytical modelling approach for Fault tree analysis to automate the reliability analysis process, where each system component is associated with its failure rate or failure probability. However, such non-state-space analysis models are not capable of modelling more complex failure behaviour of component like failure/repair dependencies, e.g., spares, shared repair, imperfect coverage, etc. State-space based paradigms like Markov chain can model complex failure behaviour, but their use can lead to state-space explosion, thus undermining the overall analysis capacity. Therefore, to maintain the benefits of MBSA while not compromising on modelling capability, in this paper, we propose a conceptual framework to incorporate complex basic events in HiP-HOPS. The idea is demonstrated via an illustrative example."

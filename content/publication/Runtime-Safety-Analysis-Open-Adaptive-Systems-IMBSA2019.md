@@ -17,8 +17,8 @@ authors = ["**S Kabir**", "K Aslansefat", "I Sorokos", "Y Papadopoulos", "Y Gher
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Symposium on Model-Based Safety and Assessment*"
-publication_short = "In *IMBSA'19*"
+publication = "In *International Symposium on Model-Based Safety and Assessment*, pp 332-346"
+publication_short = "In *IMBSA'19*, pp 332-346"
 
 # Abstract and optional shortened version.
 abstract = "In  the automotive industry, modern cyber-physical systems feature cooperation and autonomy. Such systems share information to enable collaborative functions, allowing dynamic component integration and architecture reconfiguration. Given the safety-critical nature of the applications involved, an approach for addressing safety in the context of reconfiguration impacting functional and non-functional properties at runtime is needed. In this paper, we introduce a concept for runtime safety analysis and decision input for open adaptive systems. We combine static safety analysis and evidence collected during operation to analyse, reason and provide online recommendations to minimize deviation from a system’s safe states. We illustrate our concept via an abstract vehicle platooning system use case."

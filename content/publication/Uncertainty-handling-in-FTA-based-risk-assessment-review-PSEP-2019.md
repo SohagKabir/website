@@ -17,7 +17,7 @@ authors = ["M Yazdi", "**S Kabir**", "M Walker"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Process Safety and Environmental Protection*, doi:10.1016/j.psep.2019.09.003"
+publication = "*Process Safety and Environmental Protection*, 131, pp. 89-104"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.

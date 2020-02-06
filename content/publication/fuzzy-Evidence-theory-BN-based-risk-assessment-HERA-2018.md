@@ -17,7 +17,7 @@ authors = [ "M Yazdi","**S Kabir**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Human and Ecological Risk Assessment: An International Journal*"
+publication = "*Human and Ecological Risk Assessment: An International Journal*, 26(1), pp.57-86"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
