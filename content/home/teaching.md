@@ -14,8 +14,24 @@ subtitle = ""
 weight = 60
 
 +++
+**Lecturer**, September 2019 – Present
+Department of Computer Science, University of Bradford, UK
 
-**Tutorial Assistant**, 2014-to date  
+**Academic Year 2019-2020**
+
+Semester 2:
+COS4018-B: Internet Technologies
+
+Semester 1:
+COS7039-B: Internet of Things (IoT)
+
+
+**Lecturer**, January 2019 – June 2019  
+Department of Computer Science, University of Hull, UK
+
+- Taught Web Skills and Technologies module as module leader
+
+**Tutorial Assistant**, February 2014 – November 2015  
 Department of Computer Science, University of Hull, UK
 
 Modules tutored:
@@ -23,7 +39,7 @@ Modules tutored:
 - Software Engineering and Human Computer Interaction
 - Programming 1 (C# Programming)
 
-**Lab Demonstrator**, 2013–2015  
+**Lab Demonstrator**, October 2013 – November 2015  
 Department of Computer Science, University of Hull, UK
 
 Modules demonstrated:

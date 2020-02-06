@@ -17,7 +17,7 @@ authors = [ "**S Kabir**", "T. K. Geok", "M. Kumar", "M. Yazdi", "F. Hossain"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE ACCESS*, 8, pp. 980-986"
+publication = "*IEEE ACCESS*, 8, pp. 980-996"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
