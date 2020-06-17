@@ -1,6 +1,6 @@
 +++
 title = "A Hybrid Modular Approach for Dynamic Fault Tree Analysis"
-date = "2018-05-22"
+date = "2020-05-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "**S Kabir**", "K Aslansefat", "I Sorokos", "Y Papadopoulos", "S Konur"]
