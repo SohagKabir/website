@@ -3,7 +3,7 @@ title = "Computational Intelligence for Safety Assurance of Cooperative Systems 
 date = "2020-11-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ **S Kabir**", "Y Papadopoulos"]
+authors = ["**S Kabir**", "Y Papadopoulos"]
 
 # Publication type.
 # Legend:
